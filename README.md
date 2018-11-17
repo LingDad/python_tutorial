@@ -1,2 +1,2 @@
 # python_tutorial
-Python tutorial
+Python tutorial for study
